@@ -1,3 +1,8 @@
 apiVersion: v1
-entries: {}
-generated: "2023-07-09T20:30:27.679661+05:30"
+entries:
+  istio-azure-private-ingress-customized:
+    - name: istio-azure-private-ingress-customized
+      version: 1.0.0
+      urls:
+        - https://aboobakersiddiq.github.io/istio-azure-private-ingress-customized/istio-azure-private-ingress-customized/istio-azure-private-ingress-customized-1.0.0.tgz
+      created: "2023-07-09T20:30:27.679661+05:30"
